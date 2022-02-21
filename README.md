@@ -3,9 +3,8 @@
 Sou programador e consultor em ERP, estou nesse mercado há mais de 10 anos, a disposição para lhe ajudar em alguma coisa.
 
 <div>
-  <a href='https://twitter.com/leandroademar'><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a>
-  <a href='https://www.linkedin.com/in/leandroademar/'><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
-  <a href='maito:leandro.ademars@gmail.com'><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+  <a href="https://twitter.com/leandroademar" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a>
+  <a href="https://www.linkedin.com/in/leandroademar/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
 </div>
 
 <div>
